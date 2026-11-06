@@ -15,10 +15,11 @@ MSc Applied Data Science & AI · Research Assistant, University of Lucerne · Fo
 
 | Area | Tools |
 |---|---|
-| Data Analysis | SQL, R, Python, pandas |
-| Data Engineering | AWS, MongoDB, SQL |
-| Business Intelligence | Power BI, Tableau, Amazon Quicksight |
-| ML & AI | LLM prompting, NLP, knowledge graphs |
+| Data Analysis | SQL, R, Python, pandas, multiple regression |
+| Data Engineering | AWS, Terraform, CI/CD, MongoDB, SQL, Docker, OpenAI Batch API, Google Geocoding API |
+| Business Intelligence | Power BI, Tableau, Amazon QuickSight |
+| ML & AI | Predictive modelling, LLM prompting, RAG, NLP, knowledge graphs |
+| Apps & Environments | Streamlit, Google Colab, RStudio |
 
 ---
 
