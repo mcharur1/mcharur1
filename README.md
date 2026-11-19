@@ -5,7 +5,7 @@
 **Data Analysis · Data Engineering · Business Intelligence**
 with applied Machine Learning and AI
 
-MSc Applied Data Science & AI · Research Assistant, University of Lucerne · Former BIE at Amazon
+MSc Applied Data Science & AI, HSLU · Research Assistant, University of Lucerne · Former Business Intelligence Engineer, Amazon
 
 </div>
 
